@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VpDMsU9JbyK6XEeR8PZxzSJq2bui32f0tLb3v51tKm0=",
+  "Source": "OVB.Demos.ShopDemo.WebApi",
+  "BasePath": "_content/OVB.Demos.ShopDemo.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\OVB.Demos.ShopDemo.WebApi.props" />
+</Project>
